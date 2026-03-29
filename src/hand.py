@@ -59,7 +59,7 @@ class HandTracker:
             base_options = base_options,
             running_mode = live_feed_option,
             result_callback= self.result_call,
-            num_hands =2
+            num_hands =1
         )
 
         dectector = vision.HandLandmarker.create_from_options(options)

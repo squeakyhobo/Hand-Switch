@@ -44,5 +44,3 @@ class Smart_light:
 
 
 
-####light = Smart_light("lucasbubuoppenheimer@gmail.com","Respawnables2006!","192.168.1.103")
-##asyncio.run(light.light_on())
